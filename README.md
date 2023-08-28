@@ -1,6 +1,6 @@
 ## Bem-vindo(a) 
 
- [![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Ana-Beatriz&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true)](https://github.com/Ana-Beatriz")
+ [![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Ana-Beatriz&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true)](https://github.com/Ana-Beatriz)
  
  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ana-Beatriz&layout=compact&langs_count=6&theme=tokyonight)
  <br>
