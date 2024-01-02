@@ -2,8 +2,8 @@
 
 Hi, my name is Ana Beatriz.
 
-With a solid 10 years of experience as an IT technician, I am currently embarking on a journey to become a full-stack developer. 
-I'm really excited about taking on new challenges and can't wait to bring my skills and enthusiasm to a vibrant team.
+With 5 years of experience as an IT technician and an additional 5 years in administrative roles, I'm currently embarking on an exciting journey to become a full-stack developer. 
+I'm eager to take on new challenges and can't wait to contribute my skills and enthusiasm to a dynamic team.
 
 ## My Stats
 
