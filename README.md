@@ -1,4 +1,11 @@
-# My Stats
+# About me
+
+Hi, my name is Ana Beatriz.
+
+With a solid 10 years of experience as an IT technician, I am currently embarking on a journey to become a full-stack developer. 
+I'm really excited about taking on new challenges and can't wait to bring my skills and enthusiasm to a vibrant team.
+
+## My Stats
 
  [![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Ana-Beatriz&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true)](https://github.com/Ana-Beatriz)
  
