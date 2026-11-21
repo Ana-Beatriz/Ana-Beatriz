@@ -1,9 +1,12 @@
 # About me
 
-Hi, my name is Ana Beatriz.
+Hi, I'm Ana Beatriz.
 
-With 5 years of experience as an IT technician and an additional 5 years in administrative roles, I'm currently embarking on an exciting journey to become a full-stack developer. 
-I'm eager to take on new challenges and can't wait to contribute my skills and enthusiasm to a dynamic team.
+I'm an IT support professional with a degree in Systems Analysis and Development from UniCarioca and nearly five years of experience supporting users and troubleshooting hardware, software, and network issues.
+
+My background includes point-of-sale (POS) systems, systems implementation and configuration, requirements gathering, and user training.
+
+I'm currently refreshing my technical skills and seeking opportunities in IT support, application support, and systems implementation.
 
 ## My Stats
 
